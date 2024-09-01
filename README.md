@@ -1,16 +1,13 @@
-# weather_app
+Clima - Weather App
 
-A new Flutter project.
+Clima is a sleek and intuitive weather application built with Flutter. It provides real-time weather information for your current location using the device's GPS capabilities. The app fetches data from a weather API, delivering accurate weather forecasts, temperature details, and more.
 
-## Getting Started
+How to Run:
 
-This project is a starting point for a Flutter application.
+1. Clone the repository.
 
-A few resources to get you started if this is your first Flutter project:
+2. Ensure that Flutter is installed on your machine.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. Run flutter pub get to install dependencies.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4. Build and run the app using an emulator or physical device.
